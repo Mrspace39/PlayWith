@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">PlayWith</string>
+
+    <!-- 版权文件 -->
+    <string name="copyright" translatable="false">Copyright @ %1$d Ixuea. All Rights Reserved</string>
+
+    <!-- 所有的文本都写在这 -->
+    <string name="home">首页</string>
+    <string name="apply">成为大神</string>
+    <string name="chat">聊天</string>
+    <string name="me">我的</string>
 </resources>
